@@ -10,23 +10,24 @@ Kelas: SK3B
 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori latihan5  
    ![image](https://github.com/user-attachments/assets/2548f7bd-cad6-4221-ad13-096bd2b5500f)
 3. Buatlah file dataku yang berisi nama, nim dan alamat anda pada sub direktori januari dan copy-kan file tersebut ke sub direktori februari dan maret  
-   ![Screenshot 2024-09-07 083019](https://github.com/user-attachments/assets/0fbcc7b8-f635-4886-a0ab-c796c345d245)  
+   ![image](https://github.com/user-attachments/assets/07a9428d-33ad-4299-9fd4-a23f66cd51b4)  
 4. Ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others dapat melakukan write
-   ![Screenshot 2024-09-07 083358](https://github.com/user-attachments/assets/354847cc-60b3-4f78-aceb-8a3081286982)  
+   ![image](https://github.com/user-attachments/assets/fd5c91a7-d7d2-471e-ad0e-d4a5a2797c16)  
 5. Ubahlah ijin akses file dataku pada sub direktori pebruari sehingga user dapat melakukan baik write, read maupun execute, tetapi group dan others hanya bisa read dan execute
-   ![Screenshot 2024-09-07 084112](https://github.com/user-attachments/assets/d1162d88-2c5a-4aa5-9448-945d7ee2aed0)  
+   ![image](https://github.com/user-attachments/assets/7a208705-e6d6-472e-98d9-54149d832451)  
 6. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat melakukan write, read dan execute  
-   ![Screenshot 2024-09-07 084531](https://github.com/user-attachments/assets/3ddd9e09-71d7-41ca-8065-797d49c727b6)
+   ![image](https://github.com/user-attachments/assets/4155c142-494f-404f-b933-1d859b15b9c8)  
 7. Hapuslah direktori maret
    ![Screenshot 2024-09-07 085135](https://github.com/user-attachments/assets/5bf7650c-281a-49d5-8318-da3a71f09078)
 8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari  
    ![Screenshot 2024-09-07 085831](https://github.com/user-attachments/assets/23b5508b-97f8-468a-bbe3-0de6a91b055e)  
 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya ?  
    Nilai defaultnya adalah 0002  
-   ![Screenshot 2024-09-07 090445](https://github.com/user-attachments/assets/298c7d50-59f8-454e-a0a8-3951b0feddce)  
+   ![image](https://github.com/user-attachments/assets/27d5a857-eb03-404a-9a1e-586b01237e5c)  
 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi ?  
     Link yang terjadi sebanyak 12 link  
-    ![Screenshot 2024-09-07 090857](https://github.com/user-attachments/assets/f57448f8-3961-404e-ba06-5d9a6e6f33a9)  
+    ![image](https://github.com/user-attachments/assets/dbbcbe22-6fec-44c3-bce5-acfd8ac9d9b7)  
+ 
 
 
 
